@@ -14,7 +14,11 @@ MailCatcher runs a super simple SMTP server which catches any message sent to it
 <br>
 <br>
 
-### Reference
+### Sources
+
+- mailcatcher website :point_right: [mailcatcher.me](https://mailcatcher.me/)
+
+- mailcatcher source :point_right: [GitHub](https://github.com/sj26/mailcatcher)
 
 - docker image :point_right: [schickling/mailcatcher](https://hub.docker.com/r/schickling/mailcatcher)
 
